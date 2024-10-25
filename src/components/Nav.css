@@ -1,0 +1,33 @@
+.nav-bar {
+    background-color: #3c3c3c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.nav-header {
+    font-size: 3rem;
+    font-weight: 800;
+    margin: auto;
+    color: blanchedalmond;
+}
+
+.nav-bar ul{
+    letter-spacing: 2px;
+    list-style: none;
+    width: 60%;
+    display: flex;
+    letter-spacing: 1.5px;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: auto;    
+}
+
+.nav-bar li {
+    margin-right: 30px;    
+    color:blanchedalmond;
+}
+.nav-bar a {
+    color:blanchedalmond;
+}
